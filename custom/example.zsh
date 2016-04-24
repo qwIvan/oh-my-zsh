@@ -1,5 +1,1 @@
-# Add yourself some shortcuts to projects you often work on
-# Example:
-#
-# brainstormr=/Users/robbyrussell/Projects/development/planetargon/brainstormr
-#
+/home/ivan/GitHubProjects/dotfiles/.oh-my-zsh/custom/example.zsh
